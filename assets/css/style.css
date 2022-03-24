@@ -517,6 +517,10 @@ a {
         text-align: center;
     }
 
+    .footer__social a:last-child {
+        margin-right: 0;
+    }
+
     .footer__container h2 {
         text-align: center !important;
     }
